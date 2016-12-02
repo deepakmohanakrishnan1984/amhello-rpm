@@ -1,6 +1,6 @@
 Name: amhello
 Version: 1.0
-Release: 4%{?dist}
+Release: 5%{?dist}
 Summary: Sample project
 URL: https://github.com/comcast-jonm/amhello
 License: GPLv2+
